@@ -1,0 +1,10 @@
+C:\Users\alexr\source\repos\SchnuppiProjekt\bin\Debug\SchnuppiProjekt.exe.config
+C:\Users\alexr\source\repos\SchnuppiProjekt\bin\Debug\SchnuppiProjekt.exe
+C:\Users\alexr\source\repos\SchnuppiProjekt\bin\Debug\SchnuppiProjekt.pdb
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.csproj.AssemblyReference.cache
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.Form1.resources
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.Properties.Resources.resources
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.csproj.GenerateResource.cache
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.csproj.CoreCompileInputs.cache
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.exe
+C:\Users\alexr\source\repos\SchnuppiProjekt\obj\Debug\SchnuppiProjekt.pdb
